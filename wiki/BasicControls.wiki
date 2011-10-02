@@ -1,13 +1,20 @@
 #summary One-sentence summary of this page.
+#labels Controls
 
 = Introduction =
 
 Basic Controls for the editor.
 
 
-= Details =
+= Mouse =
 
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+_Right Mouse Button_: Camera Movement (Hold _Shift_ to zoom)
+
+_Left Mouse Button_: Object Movement (Hold _Shift_ to lock to grid)
+
+
+= Keyboard =
+
+_W-Key_: Activate translation tool
+
+_E-Key_: Activate scale tool
