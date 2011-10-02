@@ -2,7 +2,7 @@
 
 = Introduction =
 
-Mysterious Blue Wombat
+Mysterious Blue Wombat 
 Blank - Level Editor
 
 
