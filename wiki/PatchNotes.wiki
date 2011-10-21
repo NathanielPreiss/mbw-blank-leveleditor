@@ -1,4 +1,4 @@
-#Patches, Bug Fixes, Updates
+#summary Patches, Bug Fixes, Updates
 
 = Introduction =
 
